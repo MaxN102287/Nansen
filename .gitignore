@@ -1,0 +1,8 @@
+
+*.pyc
+
+appia-json/.scannerwork/
+
+appia-json/sonar-project.properties
+
+*.log
