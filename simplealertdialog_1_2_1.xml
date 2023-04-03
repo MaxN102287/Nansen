@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="simplealertdialog-1.2.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.ksoichiro/simplealertdialog/1.2.1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.github.ksoichiro/simplealertdialog/1.2.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.ksoichiro/simplealertdialog/1.2.1/e8c6cf0a80c92fb5cab813e101c32399efe41c2b/simplealertdialog-1.2.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
